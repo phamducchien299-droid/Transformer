@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Model files (large)
+*.pth
+*.pt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results (optional - remove if you want to include)
+# results_*.png
+# forecasting_results.json
